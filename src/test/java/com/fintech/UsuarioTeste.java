@@ -12,5 +12,7 @@ public class UsuarioTeste {
     // Exibindo os dados do usuario
     usuario.msgRegistro();
     
+    // add metodo para exibir pessoa
+    usuario.exibirDadosPessoa();
   }
 }
