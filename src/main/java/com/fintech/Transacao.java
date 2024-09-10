@@ -1,3 +1,6 @@
+package main.java.com.fintech;
+
+
 public class Transacao {
 
   private String tipoTransacao;

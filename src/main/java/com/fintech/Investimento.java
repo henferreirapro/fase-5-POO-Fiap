@@ -1,3 +1,6 @@
+package main.java.com.fintech;
+
+
 public class Investimento {
   
   private String nomeInvestimento;

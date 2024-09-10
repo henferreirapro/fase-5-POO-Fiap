@@ -1,3 +1,4 @@
+package main.java.com.fintech;
 
 
 public class Usuario {

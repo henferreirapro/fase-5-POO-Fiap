@@ -1,3 +1,8 @@
+package test.java.com.fintech;
+
+import main.java.com.fintech.Conta;
+
+
 public class ContaTeste {
   public static void main(String[] args) {
 

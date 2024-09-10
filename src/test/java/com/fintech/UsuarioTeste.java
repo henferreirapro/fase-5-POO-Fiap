@@ -1,3 +1,8 @@
+package test.java.com.fintech;
+
+import main.java.com.fintech.Usuario;
+
+
 public class UsuarioTeste {
   public static void main(String[] args) {
     

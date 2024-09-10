@@ -1,3 +1,8 @@
+package test.java.com.fintech;
+
+import main.java.com.fintech.Transacao;
+
+
 public class TransacaoTeste {
   public static void main(String[] args) {
     
